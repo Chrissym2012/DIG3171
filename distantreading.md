@@ -8,8 +8,15 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-*This is a page where you can paste your distant reading assignment. I strongly suggest writing it in Word or Google Docs first, because Github will not alert you of typos*
+I used Voyant to search this website! [Harry Potter Website!](https://www.harrypotter.com/writing-by-jk-rowling/the-potter-family)
 
-This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
+text..
 
-Here is a fun link to a [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). Once you grasp the basics here, go add "Markdown" to your list of skills on your resume!
+Check out my image!
+
+![alt text](image.jpg)
+
+
+---
+I also tried Copilot! with ChatGPT-5 and here's a bit of our conversation:
+
