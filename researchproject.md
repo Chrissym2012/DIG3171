@@ -26,8 +26,6 @@ Ultimately, this project calls attention to the emotional dimension of digital i
 
 # Works Cited
 
-<h2 style="text-align:center;">Works Cited</h2>
-
 <p><strong>Fang, Cathy Mengying</strong>, et al. “How AI and Human Behaviors Shape Psychosocial Effects of Chatbot Use: A Longitudinal Controlled Study.” <em>MIT Media Lab</em>, 21 Mar. 2025, <a href="https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/">https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/</a>.</p>
 
 <p><strong>Liu, Ivan</strong>, et al. “Assessing the Effectiveness of Using Chatbots for Positive Psychological Intervention: A Randomized Control Study.” <em>Chinese CHI 2022</em>, ACM, Oct. 2022, <a href="https://doi.org/10.1145/3565698.3565789">https://doi.org/10.1145/3565698.3565789</a>.</p>
