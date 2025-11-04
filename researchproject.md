@@ -26,12 +26,33 @@ Ultimately, this project calls attention to the emotional dimension of digital i
 
 # Works Cited
 
-<p><strong>Fang, Cathy Mengying</strong>, et al. “How AI and Human Behaviors Shape Psychosocial Effects of Chatbot Use: A Longitudinal Controlled Study.” <em>MIT Media Lab</em>, 21 Mar. 2025, <a href="https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/">https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/</a>.</p>
+<style>
+  .works-cited {
+    margin-left: 2em;
+    text-indent: -2em;
+    line-height: 1.5;
+  }
+</style>
 
-<p><strong>Liu, Ivan</strong>, et al. “Assessing the Effectiveness of Using Chatbots for Positive Psychological Intervention: A Randomized Control Study.” <em>Chinese CHI 2022</em>, ACM, Oct. 2022, <a href="https://doi.org/10.1145/3565698.3565789">https://doi.org/10.1145/3565698.3565789</a>.</p>
+<h2 style="text-align:center;">Works Cited</h2>
 
-<p><strong>Lopes, R. M.</strong>, et al. “Chatbots for Well-Being: Exploring the Impact of Artificial Intelligence on Mood Enhancement and Mental Health.” <em>European Psychiatry</em>, Cambridge University Press, 27 Aug. 2024, <a href="https://www.cambridge.org/core/journals/european-psychiatry/article/chatbots-for-wellbeing-exploring-the-impact-of-artificial-intelligence-on-mood-enhancement-and-mental-health/13E4C926F650723E0705428AAAD030C6">https://www.cambridge.org/core/journals/european-psychiatry/article/chatbots-for-wellbeing-exploring-the-impact-of-artificial-intelligence-on-mood-enhancement-and-mental-health/13E4C926F650723E0705428AAAD030C6</a>.</p>
+<p class="works-cited">
+  Fang, Cathy Mengying, et al. “How AI and Human Behaviors Shape Psychosocial Effects of Chatbot Use: A Longitudinal Controlled Study.” <em>MIT Media Lab</em>, 21 Mar. 2025, <a href="https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/">https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/</a>.
+</p>
 
-<p><strong>Rafikova, Antonina</strong>, and <strong>Anatoly Voronin</strong>. “Human–Chatbot Communication: A Systematic Review of Psychological Studies.” <em>AI & Society</em>, Springer, 6 Mar. 2025, <a href="https://link.springer.com/article/10.1007/s00146-025-02277-y">https://link.springer.com/article/10.1007/s00146-025-02277-y</a>.</p>
+<p class="works-cited">
+  Liu, Ivan, et al. “Assessing the Effectiveness of Using Chatbots for Positive Psychological Intervention: A Randomized Control Study.” <em>Chinese CHI 2022</em>, ACM, Oct. 2022, <a href="https://doi.org/10.1145/3565698.3565789">https://doi.org/10.1145/3565698.3565789</a>.
+</p>
 
-<p><strong>Fan, Jing</strong>. <em>AI Psychotherapists and Positive Psychology: A Systematic Literature Review</em>. Master’s thesis, LUT University, 2024, <a href="https://lutpub.lut.fi/bitstream/handle/10024/168817/mastersthesis_Jing_Fan.pdf">https://lutpub.lut.fi/bitstream/handle/10024/168817/mastersthesis_Jing_Fan.pdf</a>.</p>
+<p class="works-cited">
+  Lopes, R. M., et al. “Chatbots for Well-Being: Exploring the Impact of Artificial Intelligence on Mood Enhancement and Mental Health.” <em>European Psychiatry</em>, Cambridge University Press, 27 Aug. 2024, <a href="https://www.cambridge.org/core/journals/european-psychiatry/article/chatbots-for-wellbeing-exploring-the-impact-of-artificial-intelligence-on-mood-enhancement-and-mental-health/13E4C926F650723E0705428AAAD030C6">https://www.cambridge.org/core/journals/european-psychiatry/article/chatbots-for-wellbeing-exploring-the-impact-of-artificial-intelligence-on-mood-enhancement-and-mental-health/13E4C926F650723E0705428AAAD030C6</a>.
+</p>
+
+<p class="works-cited">
+  Rafikova, Antonina, and Anatoly Voronin. “Human–Chatbot Communication: A Systematic Review of Psychological Studies.” <em>AI & Society</em>, Springer, 6 Mar. 2025, <a href="https://link.springer.com/article/10.1007/s00146-025-02277-y">https://link.springer.com/article/10.1007/s00146-025-02277-y</a>.
+</p>
+
+<p class="works-cited">
+  Fan, Jing. <em>AI Psychotherapists and Positive Psychology: A Systematic Literature Review</em>. Master’s thesis, LUT University, 2024, <a href="https://lutpub.lut.fi/bitstream/handle/10024/168817/mastersthesis_Jing_Fan.pdf">https://lutpub.lut.fi/bitstream/handle/10024/168817/mastersthesis_Jing_Fan.pdf</a>.
+</p>
+
