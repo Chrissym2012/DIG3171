@@ -26,16 +26,6 @@ Ultimately, this project calls attention to the emotional dimension of digital i
 
 # Works Cited
 
-<style>
-  .works-cited {
-    margin-left: 2em;
-    text-indent: -2em;
-    line-height: 1.5;
-  }
-</style>
-
-<h2 style="text-align:center;">Works Cited</h2>
-
 <div style="margin-left:2em; text-indent:-2em; line-height:1.5;">
   Fang, Cathy Mengying, et al. “How AI and Human Behaviors Shape Psychosocial Effects of Chatbot Use: A Longitudinal Controlled Study.” <em>MIT Media Lab</em>, 21 Mar. 2025, <a href="https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/">https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/</a>.
 </div>
