@@ -6,39 +6,6 @@ title: Research Project
 # My Final Research Project  
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Little Light Chat</title>
-  <!-- Botpress Webchat Scripts -->
-  <script src="https://cdn.botpress.cloud/webchat/v3.3/inject.js"></script>
-  <script src="https://files.bpcontent.cloud/2025/10/15/00/20251015000428-VVOS6OYT.js" defer></script>
-</head>
-<body>
-  <!-- Your page content goes here -->
-
-  <!-- Optional: Embed in a specific container -->
-  <div id="chat-container"></div>
-
-  <script>
-    window.botpressWebChat.init({
-      botId: 'your-bot-id', // Replace with your actual bot ID
-      hostUrl: 'https://cdn.botpress.cloud/webchat/v3',
-      botName: 'Little Light',
-      container: '#chat-container', // Optional: embed in a div
-      layout: 'side', // Use 'embedded' if placing inside a div
-      openOnLoad: true, // Keeps the chatbox open
-      hideWidget: false,
-      showCloseButton: true,
-      theme: 'light',
-      showPoweredBy: false
-    });
-  </script>
-</body>
-</html>
-
-
 <a href="https://cdn.botpress.cloud/webchat/v3.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/15/00/20251015000428-PYJI23RI.json">Little Light</a>
 
 
