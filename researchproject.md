@@ -5,9 +5,10 @@ title: Research Project
 
 # My Final Research Project  
 
-This is a big project, and you definitely want a place to show it off! Here's a suggested layout for that (but feel free to display your work however you prefer).
-You can link to your project here, or embed it.
-If it is easier to embed your project in an HTML file, just change the .md on this one to .html, and write in HTML! (Be sure to update the links to this page to reflect the new name though!)
+
+<script src="https://cdn.botpress.cloud/webchat/v3.3/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2025/10/15/00/20251015000428-VVOS6OYT.js" defer></script>
+    
 
 # Abstract
 
