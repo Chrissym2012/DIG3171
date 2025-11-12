@@ -15,7 +15,7 @@ title: Research Project
 <script src="https://files.bpcontent.cloud/2025/11/11/23/20251111235552-U75FIL89.js" defer></script>
     
     
-    
+To access Little Light, click the image above — or simply tap the chatbot icon in the bottom-right corner of the page.
     
     
 
