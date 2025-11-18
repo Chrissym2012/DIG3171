@@ -37,6 +37,10 @@ Ultimately, this project calls attention to the emotional dimension of digital i
 # Works Cited
 
 <div style="margin-left:2em; text-indent:-2em; line-height:1.5;">
+  Fan, Jing. <em>AI Psychotherapists and Positive Psychology: A Systematic Literature Review</em>. Master’s thesis, LUT University, 2024, <a href="https://lutpub.lut.fi/bitstream/handle/10024/168817/mastersthesis_Jing_Fan.pdf">https://lutpub.lut.fi/bitstream/handle/10024/168817/mastersthesis_Jing_Fan.pdf</a>.
+</div>
+
+<div style="margin-left:2em; text-indent:-2em; line-height:1.5;">
   Fang, Cathy Mengying, et al. “How AI and Human Behaviors Shape Psychosocial Effects of Chatbot Use: A Longitudinal Controlled Study.” <em>MIT Media Lab</em>, 21 Mar. 2025, <a href="https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/">https://www.media.mit.edu/publications/how-ai-and-human-behaviors-shape-psychosocial-effects-of-chatbot-use-a-longitudinal-controlled-study/</a>.
 </div>
 
@@ -51,8 +55,3 @@ Ultimately, this project calls attention to the emotional dimension of digital i
 <div style="margin-left:2em; text-indent:-2em; line-height:1.5;">
   Rafikova, Antonina, and Anatoly Voronin. “Human–Chatbot Communication: A Systematic Review of Psychological Studies.” <em>AI & Society</em>, Springer, 6 Mar. 2025, <a href="https://link.springer.com/article/10.1007/s00146-025-02277-y">https://link.springer.com/article/10.1007/s00146-025-02277-y</a>.
 </div>
-
-<div style="margin-left:2em; text-indent:-2em; line-height:1.5;">
-  Fan, Jing. <em>AI Psychotherapists and Positive Psychology: A Systematic Literature Review</em>. Master’s thesis, LUT University, 2024, <a href="https://lutpub.lut.fi/bitstream/handle/10024/168817/mastersthesis_Jing_Fan.pdf">https://lutpub.lut.fi/bitstream/handle/10024/168817/mastersthesis_Jing_Fan.pdf</a>.
-</div>
-
